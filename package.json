@@ -1,0 +1,24 @@
+{
+  "name": "experiencecanadaproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whdesigns/ExperienceCanadaProject.git"
+  },
+  "author": "Will Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whdesigns/ExperienceCanadaProject/issues"
+  },
+  "homepage": "https://github.com/whdesigns/ExperienceCanadaProject#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
