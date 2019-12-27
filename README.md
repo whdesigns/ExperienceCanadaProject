@@ -1,6 +1,6 @@
 ![](public/imgs/logo.png)
 
-## [Click Here for Firebase Hosted Site](https://experiencecanadaproject.web.app/)
+#### [Click Here for Firebase Hosted Site](https://experiencecanadaproject.web.app/)
 
  <br /> 
 
@@ -22,7 +22,6 @@
 cd ~/Desktop/
 
 git clone https://github.com/whdesigns/ExperienceCanadaProject
-
 ```
 
  <br /> 
@@ -34,7 +33,6 @@ git clone https://github.com/whdesigns/ExperienceCanadaProject
  
  ```
 node -v
-
  ```
 ###### in the terminal to ensure the latest version has been installed. 
 
@@ -47,6 +45,7 @@ node -v
  ```
 sudo npm install gulp-cli -g
  ```
+###### After typing in the above code npm will ask for a "password", which is used for your computer.
  
 ###### Type...
 
