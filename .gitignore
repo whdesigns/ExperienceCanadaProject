@@ -3,5 +3,4 @@ node_modules
 sass.logError
 
 # The Build Directory
-/public
 .DS_Store
