@@ -1,5 +1,7 @@
 ![](public/imgs/logo.png)
 
+## [Firebase Hosted Site](https://experiencecanadaproject.web.app/)
+
  <br /> 
 
 # Introduction
@@ -7,10 +9,6 @@
   <br /> 
 
 # CodingStyleGuide Overview 
-
-  <br /> 
-
-###### [Firebase Hosted Site](https://experiencecanadaproject.web.app/)
 
  <br /> 
 
@@ -156,57 +154,57 @@ gulp watch
  <br /> 
 
 #### Culture (Mobile)
-![](imgs/CultureMobile.png)
-![](imgs/CultureMobile1.png)
-![](imgs/CultureMobile2.png)
-![](imgs/CultureMobile3.png)
-![](imgs/CultureMobile4.png)
-![](imgs/CultureMobile5.png)
-![](imgs/CultureMobile6.png)
-![](imgs/CultureMobile7.png)
-![](imgs/CultureMobile8.png)
+![](public/imgs/CultureMobile.png)
+![](public/imgs/CultureMobile1.png)
+![](public/imgs/CultureMobile2.png)
+![](public/imgs/CultureMobile3.png)
+![](public/imgs/CultureMobile4.png)
+![](public/imgs/CultureMobile5.png)
+![](public/imgs/CultureMobile6.png)
+![](public/imgs/CultureMobile7.png)
+![](public/imgs/CultureMobile8.png)
 
 
 #### Wildlife (Mobile)
-![](imgs/WildlifeMobile.png)
-![](imgs/WildlifeMobile1.png)
-![](imgs/WildlifeMobile2.png)
-![](imgs/WildlifeMobile3.png)
-![](imgs/WildlifeMobile4.png)
-![](imgs/WildlifeMobile5.png)
-![](imgs/WildlifeMobile6.png)
-![](imgs/WildlifeMobile7.png)
-![](imgs/WildlifeMobile8.png)
-![](imgs/WildlifeMobile9.png)
+![](public/imgs/WildlifeMobile.png)
+![](public/imgs/WildlifeMobile1.png)
+![](public/imgs/WildlifeMobile2.png)
+![](public/imgs/WildlifeMobile3.png)
+![](public/imgs/WildlifeMobile4.png)
+![](public/imgs/WildlifeMobile5.png)
+![](public/imgs/WildlifeMobile6.png)
+![](public/imgs/WildlifeMobile7.png)
+![](public/imgs/WildlifeMobile8.png)
+![](public/imgs/WildlifeMobile9.png)
 
  <br /> 
 
 #### Landmarks (Mobile)
-![](imgs/LandmarksMobile1.png)
-![](imgs/LandmarksMobile2.png)
-![](imgs/LandmarksMobile3.png)
-![](imgs/LandmarksMobile4.png)
-![](imgs/LandmarksMobile5.png)
-![](imgs/LandmarksMobile6.png)
-![](imgs/LandmarksMobile7.png)
+![](public/imgs/LandmarksMobile1.png)
+![](public/imgs/LandmarksMobile2.png)
+![](public/imgs/LandmarksMobile3.png)
+![](public/imgs/LandmarksMobile4.png)
+![](public/imgs/LandmarksMobile5.png)
+![](public/imgs/LandmarksMobile6.png)
+![](public/imgs/LandmarksMobile7.png)
 
  <br /> 
 
 #### Sports (Mobile)
-![](imgs/SportsMobile1.png)
-![](imgs/SportsMobile2.png)
-![](imgs/SportsMobile3.png)
-![](imgs/SportsMobile4.png)
-![](imgs/SportsMobile5.png)
-![](imgs/SportsMobile6.png)
-![](imgs/SportsMobile7.png)
+![](public/imgs/SportsMobile1.png)
+![](public/imgs/SportsMobile2.png)
+![](public/imgs/SportsMobile3.png)
+![](public/imgs/SportsMobile4.png)
+![](public/imgs/SportsMobile5.png)
+![](public/imgs/SportsMobile6.png)
+![](public/imgs/SportsMobile7.png)
 
  <br /> 
 
 #### Contact Us (Mobile)
-![](imgs/ContactMobile0.png)
-![](imgs/ContactMobile1.png)
-![](imgs/ContactMobile3.png)
+![](public/imgs/ContactMobile0.png)
+![](public/imgs/ContactMobile1.png)
+![](public/imgs/ContactMobile3.png)
 
 
 # Part Four - Reflective Evaluation
