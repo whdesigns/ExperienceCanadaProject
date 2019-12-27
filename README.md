@@ -1,6 +1,6 @@
 ![](public/imgs/logo.png)
 
-## [Firebase Hosted Site](https://experiencecanadaproject.web.app/)
+## [Click Here for Firebase Hosted Site](https://experiencecanadaproject.web.app/)
 
  <br /> 
 
@@ -41,18 +41,17 @@ node -v
   <br /> 
 
 #### Step Three:
-###### Type the following in the terminal to install gulp
+###### Right click on the "public" folder and select "Open in Terminal". 
+###### Type the following into the terminal to install gulp
 
  ```
 sudo npm install gulp-cli -g
-
  ```
  
 ###### Type...
 
  ```
 gulp -v
-
  ```
 ###### to check if the latest version of gulp has been installed.
 
@@ -63,7 +62,6 @@ gulp -v
 
  ```
 npm install --save-dev gulp gulp-sass browser-sync
-
  ```
 ###### This will automatically update the dependencies in the package.JSON file.
  
@@ -75,7 +73,6 @@ npm install --save-dev gulp gulp-sass browser-sync
 
  ```
 gulp watch
-
  ```
 
   <br /> 
