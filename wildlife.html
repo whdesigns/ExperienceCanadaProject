@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Experience Canada</title>
+</head>
+
+<body>
+  <nav>
+    <div class="logo">
+      <a href="index.html"><img src="imgs/logo.png" alt="logo"></a>
+    </div>
+    <ul class="nav-links">
+        <li>
+            <a href="index.html">Home</a>
+        </li>
+        <li>
+            <a href="culture.html">Culture</a>
+        </li>
+        <li>
+            <a href="wildlife.html">Wildlife</a>
+        </li>
+        <li>
+            <a href="landmarks.html">Landmarks</a>
+        </li>
+        <li>
+            <a href="sports.html">Sports</a>
+        </li>
+        <li>
+            <a href="contact.html">Contact Us</a>
+         </li>
+    </ul>
+    <div class="burger">
+        <div class="line1"></div>
+        <div class="line2"></div>
+        <div class="line3"></div>
+
+    </div>
+</nav>
+
+<div class="wrap">
+<div class="home-slide">
+    <div id="arrow-left" class="arrow"></div>
+    <div id="slider">
+      <div class="slide slide7">
+        <div class="slide-content">
+          <span>Canadian Wildlife</span>
+        </div>
+      </div>
+      <div class="slide slide8">
+        <div class="slide-content">
+          <span>Canadian Wildlife</span>
+        </div>
+      </div>
+      <div class="slide slide9">
+        <div class="slide-content">
+          <span>Canadian Wildlife</span>
+        </div>
+      </div>
+    </div>
+    <div id="arrow-right" class="arrow"></div>
+	</div>
+    </div>
+  
+  <script>
+  let sliderImages = document.querySelectorAll(".slide"),
+  arrowLeft = document.querySelector("#arrow-left"),
+  arrowRight = document.querySelector("#arrow-right"),
+  current = 0;
+
+// Clear all images
+function reset() {
+  for (let i = 0; i < sliderImages.length; i++) {
+    sliderImages[i].style.display = "none";
+  }
+}
+
+// Init slider
+function startSlide() {
+  reset();
+  sliderImages[0].style.display = "block";
+}
+
+// Show prev
+function slideLeft() {
+  reset();
+  sliderImages[current - 1].style.display = "block";
+  current--;
+}
+
+// Show next
+function slideRight() {
+  reset();
+  sliderImages[current + 1].style.display = "block";
+  current++;
+}
+
+// Left arrow click
+arrowLeft.addEventListener("click", function() {
+  if (current === 0) {
+    current = sliderImages.length;
+  }
+  slideLeft();
+});
+
+// Right arrow click
+arrowRight.addEventListener("click", function() {
+  if (current === sliderImages.length - 1) {
+    current = -1;
+  }
+  slideRight();
+});
+
+startSlide();
+
+  
+  </script>
+
+
+ 
+  <div class="wildlifeRow1">
+            
+       <div id="img1">
+           
+      
+           <article>
+             <h3>Grizzly Bear</h3>
+                <span class="circle-img"><img src="imgs/grizzly.jpeg" alt="grizzly"></span>
+     
+       
+          <a href="https://www.canadiangeographic.ca/article/animal-facts-grizzly-bear">Learn More</a>
+         </article>
+         </div>
+        
+    
+        
+        <div id="img2">
+            
+       
+            <article>
+                <h3>Deer</h3>
+                <span class="circle-img"><img src="imgs/deer.jpeg" alt="deer"></span>
+          
+        <a href="https://www.thecanadianencyclopedia.ca/en/article/deer">Learn More</a>
+         </article>
+      
+       </div>
+      
+      
+       <div id="img3">
+            
+       
+            <article>
+                <h3>American Bison</h3>
+                <span class="circle-img"><img src="imgs/bison.jpeg" alt="bison"></span>
+        <a href="https://www.thecanadianencyclopedia.ca/en/article/bison">Learn More</a>
+         </article>
+      
+       </div>
+         
+              </div>
+              
+              
+        <div class="wildlifeRow2">
+            
+       <div id="img4">
+           
+      
+           <article>
+              <h3>Black Bear</h3>
+                <span class="circle-img"><img src="imgs/bbear.jpeg" alt="bear2"> </span>
+  
+          <a href="https://www.thecanadianencyclopedia.ca/en/article/black-bear">Learn More</a>
+         </article>
+         </div>
+        
+    
+        
+        <div id="img5">
+            
+       
+            <article>
+              <h3>Bald Eagle</h3>
+                <span class="circle-img"><img src="imgs/eagle.jpeg" alt="eagle"> </span> 
+      
+        <a href="https://www.canadiangeographic.ca/article/animal-facts-bald-eagle">Learn More</a>
+         </article>
+      
+       </div>
+      
+      
+       <div id="img6">
+            
+       
+            <article>
+              <h3>Bobcat</h3>
+                <span class="circle-img"><img src="imgs/bobcat.jpeg" alt="bobcat"></span>
+       
+        <a href="https://www.thecanadianencyclopedia.ca/en/article/bobcat">Learn More</a>
+         </article>
+      
+       </div>
+         
+              </div>
+
+
+              <div class="wildlifeRow3">
+            
+                  <div id="img7">
+                      
+                 
+                      <article>
+                         <h3>Beaver</h3>
+                           <span class="circle-img"><img src="imgs/beaver.jpeg" alt="beaver"> </span>
+             
+                     <a href="https://thecanadianencyclopedia.ca/en/article/beaver">Learn More</a>
+                    </article>
+                    </div>
+                   
+               
+                   
+                   <div id="img8">
+                       
+                  
+                       <article>
+                         <h3>Canadian Lynx</h3>
+                           <span class="circle-img"><img src="imgs/lynx.jpeg" alt="lynx">  </span>
+                 
+                   <a href="https://www.canadiangeographic.ca/article/animal-facts-canada-lynx">Learn More</a>
+                    </article>
+                 
+                  </div>
+                 
+                 
+                  <div id="img9">
+                       
+                  
+                       <article>
+                         <h3>Canadian Timber Wolf</h3>
+                           <span class="circle-img"><img src="imgs/wolf.jpeg" alt="wolf"></span>
+                  
+                   <a href="https://www.woburnsafari.co.uk/discover/meet-the-animals/mammals/canadian-timber-wolf/">Learn More</a>
+                    </article>
+                 
+                  </div>
+                    
+                         </div>
+           
+    
+
+             <!--FOOTER-->
+  <div class="footer">
+
+    <p>&copy;Copyright 2020<p>
+                
+             </div> 
+             <script src="js/hamburger.js"></script>
+               </body>
+</html>
+
