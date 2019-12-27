@@ -1,4 +1,4 @@
-![](imgs/logo.png)
+![](public/imgs/logo.png)
 
  <br /> 
 
@@ -88,70 +88,70 @@ gulp watch
 # Part Three - Screenshot Evidence
 
 #### Home (Desktop)
-![](imgs/Home0.png)
-![](imgs/Home1.png)
-![](imgs/Home2.png)
-![](imgs/Home3.png)
+![](public/imgs/Home0.png)
+![](public/imgs/Home1.png)
+![](public/imgs/Home2.png)
+![](public/imgs/Home3.png)
  
   <br /> 
 
 #### Culture (Desktop)
-![](imgs/Culture0.png)
-![](imgs/Culture1.1.png)
-![](imgs/Culture2.png)
-![](imgs/Culture3.png)
+![](public/imgs/Culture0.png)
+![](public/imgs/Culture1.1.png)
+![](public/imgs/Culture2.png)
+![](public/imgs/Culture3.png)
 
  <br /> 
 
 #### Wildlife (Desktop)
-![](imgs/Wildlife0.png)
-![](imgs/Wildlife1.png)
-![](imgs/WIldlife2.png)
-![](imgs/Wildlife3.png)
+![](public/imgs/Wildlife0.png)
+![](public/imgs/Wildlife1.png)
+![](public/imgs/WIldlife2.png)
+![](public/imgs/Wildlife3.png)
 
  <br /> 
 
 #### Landmarks (Desktop)
-![](imgs/Landmarks0.png)
-![](imgs/Landmarks1.png)
-![](imgs/Landmarks2.png)
-![](imgs/Landmarks3.png)
-![](imgs/Landmark4.png)
-![](imgs/Landmarks5.png)
-![](imgs/Landmarks6.png)
+![](public/imgs/Landmarks0.png)
+![](public/imgs/Landmarks1.png)
+![](public/imgs/Landmarks2.png)
+![](public/imgs/Landmarks3.png)
+![](public/imgs/Landmark4.png)
+![](public/imgs/Landmarks5.png)
+![](public/imgs/Landmarks6.png)
 
  <br /> 
 
 #### Sports (Desktop)
-![](imgs/Sports0.png)
-![](imgs/Sports1.png)
-![](imgs/Sports2.png)
-![](imgs/Sports3.png)
-![](imgs/Sports4.png)
-![](imgs/Sports5.png)
+![](public/imgs/Sports0.png)
+![](public/imgs/Sports1.png)
+![](public/imgs/Sports2.png)
+![](public/imgs/Sports3.png)
+![](public/imgs/Sports4.png)
+![](public/imgs/Sports5.png)
 
  <br /> 
 
 #### Contact Us (Desktop)
-![](imgs/Contact0.png)
-![](imgs/Contact1.png)
-![](imgs/Contact2.png)
+![](public/imgs/Contact0.png)
+![](public/imgs/Contact1.png)
+![](public/imgs/Contact2.png)
 
  <br /> 
 
 #### Home (Mobile)
-![](imgs/HomeMobile1.png)
-![](imgs/HomeMenu.png)
-![](imgs/HomeMobile2.png)
-![](imgs/HomeMobile3.png)
-![](imgs/Feedback1.png)
-![](imgs/Feedback2.png)
-![](imgs/Feedback3.png)
-![](imgs/HomeMobile4.png)
-![](imgs/HomeMobile5.png)
-![](imgs/HomeMobile6.png)
-![](imgs/HomeMobile7.png)
-![](imgs/HomeMobile8.png)
+![](public/imgs/HomeMobile1.png)
+![](public/imgs/HomeMenu.png)
+![](public/imgs/HomeMobile2.png)
+![](public/imgs/HomeMobile3.png)
+![](public/imgs/Feedback1.png)
+![](public/imgs/Feedback2.png)
+![](public/imgs/Feedback3.png)
+![](public/imgs/HomeMobile4.png)
+![](public/imgs/HomeMobile5.png)
+![](public/imgs/HomeMobile6.png)
+![](public/imgs/HomeMobile7.png)
+![](public/imgs/HomeMobile8.png)
 
  <br /> 
 
