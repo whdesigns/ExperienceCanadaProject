@@ -29,7 +29,7 @@ git clone https://github.com/whdesigns/ExperienceCanadaProject
 #### Step Two:
 ###### Open the cloned repo inside Visual Studio Code on either Windows or Mac.
 
-###### Note: Ensure Node JS is installed. If not click here to download it. Once installed npm will be available to use on the terminal. Type....
+###### Note: Ensure Node JS is installed. If not [click here](https://nodejs.org/en/) to download it. Once installed npm will be available to use on the terminal. Type....
  
  ```
 node -v
