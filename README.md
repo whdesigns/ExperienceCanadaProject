@@ -1,6 +1,6 @@
 ![](public/imgs/logo.png)
 
-#### [Click Here for Firebase Hosted Site](https://experiencecanadaproject.web.app/)
+#### [Click Here for Firebase Hosted Site](https://experiencecanada.web.app/)
 
  <br /> 
 
