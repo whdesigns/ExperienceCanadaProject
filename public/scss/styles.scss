@@ -338,6 +338,7 @@ h2 {
     opacity: 0;
 	transition: all .3s ease-in;
 }
+
 .circle-img:after {
     top: 0;
     bottom: 0;
@@ -422,7 +423,7 @@ h2 {
 
 .cultureImageRow1 span {
   width: 50%;
-   position: relative;
+  position: relative;
   height: 400px;
   text-align: center;
 }
@@ -439,7 +440,7 @@ h2 {
 .cultureImageRow2 span {
   width: 50%;
   height: 400px;
-   position: relative;
+  position: relative;
   text-align: center;
 }
 
@@ -455,7 +456,7 @@ h2 {
 .cultureImageRow3 span {
   width: 50%;
   height: 400px;
-   position: relative;
+  position: relative;
   text-align: center;
 }
 .cultureImageRow1 span img, .cultureImageRow2 span img, .cultureImageRow3 span img {
@@ -605,6 +606,10 @@ form label {
   width: 100%;
 }
 
+.landmark1 a {
+  text-decoration: none;
+}
+
 .landmark1 img {
   width: 100%;
   height: 700px;
@@ -638,7 +643,9 @@ form label {
   width: 100%;
 }
 
-
+.landmark2 a {
+  text-decoration: none;
+}
 
 .landmark2 img {
   width: 100%;
@@ -673,6 +680,9 @@ form label {
   width: 100%;
 }
 
+.landmark3 a {
+  text-decoration: none;
+}
 
 .landmark3 img {
   width: 100%;
@@ -707,6 +717,9 @@ form label {
   width: 100%;
 }
 
+.landmark4 a {
+  text-decoration: none;
+}
 
 .landmark4 img {
   width: 100%;
@@ -740,6 +753,10 @@ form label {
 .landmark5 {
   position: relative;
   width: 100%;
+}
+
+.landmark5 a {
+  text-decoration: none;
 }
 
 .landmark5 img {
@@ -785,6 +802,10 @@ form label {
   width: 100%;
 }
 
+.sport1 a {
+  text-decoration: none;
+}
+
 .sport1 img {
   width: 100%;
   height: 700px;
@@ -818,6 +839,9 @@ form label {
   width: 100%;
 }
 
+.sport2 a {
+  text-decoration: none;
+}
 
 .sport2 img {
   width: 100%;
@@ -852,6 +876,9 @@ form label {
   width: 100%;
 }
 
+.sport3 a {
+  text-decoration: none;
+}
 
 .sport3 img {
   width: 100%;
@@ -886,6 +913,9 @@ form label {
   width: 100%;
 }
 
+.sport4 a {
+  text-decoration: none;
+}
 
 .sport4 img {
   width: 100%;
