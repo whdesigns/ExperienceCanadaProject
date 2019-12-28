@@ -1221,7 +1221,7 @@ body {
   
 .nav-links {
   position: absolute;
-  height: 92vh;
+  height: 60vh;
   top: 95px;
   background-color: #4d94ff;
   display: -webkit-box;
@@ -1390,7 +1390,7 @@ transform: rotate(45deg) translate(-5px,-6px);
 }
 
 .slide-content span {
-  font-size: 3rem;
+  font-size: 2rem;
   color: #fff;
 }
 
@@ -1533,7 +1533,7 @@ form label {
   height: 30px;
   border-style: solid;
 	font-size: 15px;
-	width: 400px;
+	width: 100%;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;

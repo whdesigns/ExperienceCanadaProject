@@ -992,7 +992,7 @@ form label {
     overflow-x: hidden; }
   .nav-links {
     position: absolute;
-    height: 92vh;
+    height: 60vh;
     top: 95px;
     background-color: #4d94ff;
     display: -webkit-box;
@@ -1100,7 +1100,7 @@ form label {
     align-items: center;
     text-align: center; }
   .slide-content span {
-    font-size: 3rem;
+    font-size: 2rem;
     color: #fff; }
   .arrow {
     visibility: hidden; }
@@ -1183,7 +1183,7 @@ form label {
     height: 30px;
     border-style: solid;
     font-size: 15px;
-    width: 400px;
+    width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center; }
