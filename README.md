@@ -5,7 +5,8 @@
  <br /> 
 
 # Introduction
-###### 
+###### As part of the assessment for Web Site Design SWD500 the task was to create a responsive website on a theme my choice. The chosen theme was life in Canada. The intended outcome for this project is to provide further attention to the country as a holiday destination or a place people might wish to immigrate to. The website will highlight such topics as culture, sports, wildlife, and landmarks. The objective is to educate users about the country, encourage them to visit and experience what it has to offer. Above all else the site should respond to different screen sizes e.g. mobiles and desktops. The project will consist of six pages and use HTML, CSS, and JavaScript.
+
  <br /> 
 
 # CodingStyleGuide Overview 
