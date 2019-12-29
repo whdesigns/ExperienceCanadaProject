@@ -5,13 +5,13 @@
  <br /> 
 
 # Introduction
-##### As part of the assessment for Web Site Design SWD500 the task was to create a responsive website on a theme my choice. The chosen theme was life in Canada. The intended outcome for this project is to provide further attention to the country as a holiday destination or a place people might wish to immigrate to. The website will highlight such topics as culture, sports, wildlife, and landmarks. The objective is to educate users about the country, encourage them to visit and experience what it has to offer. Above all else the site should respond to different screen sizes e.g. mobiles and desktops. The project will consist of six pages and use HTML, CSS, and JavaScript.
+##### As part of my university assessment for Web Site Design SWD500 I was tasked with creating a responsive website on a theme my choice. The chosen theme was life in Canada. The intended outcome for this project was to generate further attention to the country as a holiday destination or a place people might wish to immigrate to. This website highlights such topics as Canadian culture, sports, wildlife, and landmarks. The site has been written in HTML5, SASS/CSS3, and JavaScript and is responsive on both mobiles and desktops devices.
 
  <br /> 
 
 # CodingStyleGuide Overview 
-##### The [attached](https://github.com/whdesigns/ExperienceCanadaProject/blob/master/codingStyleGuide.md) markdown file discusses suggested functions included in the website, as well as the right and wrong approaches for best coding practice. 
-##### Note: This file was written during the planning stage and since then many fucntions and features have changed or been removed. 
+##### The [attached](https://github.com/whdesigns/ExperienceCanadaProject/blob/master/codingStyleGuide.md) markdown file discusses suggested HTML, CSS, and JavaScript elements used throughout this project, as well as the right and wrong approaches for best coding practice. It is worth noting that regular CSS was not used throughout this project, because I wanted to experiement with SASS.  
+##### Note: This file was written during the planning stage and some JS elements or features may have changed or been removed since then. 
 
  <br /> 
 
