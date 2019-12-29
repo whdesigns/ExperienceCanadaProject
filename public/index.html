@@ -11,6 +11,7 @@
   </head>
 
   <body>
+    <!--NAV BAR-->
     <nav>
       <div class="logo">
         <a href="index.html"><img src="imgs/logo.png" alt="logo"/></a>
@@ -35,6 +36,8 @@
           <a href="contact.html">Contact Us</a>
         </li>
       </ul>
+
+      <!--HAMBURGER-->
       <div class="burger">
         <div class="line1"></div>
         <div class="line2"></div>
@@ -42,6 +45,8 @@
       </div>
     </nav>
 
+
+<!--SLIDERS-->
     <div class="wrap">
       <div class="home-slide">
         <div id="arrow-left" class="arrow"></div>
@@ -75,31 +80,31 @@
             sliderImages[i].style.display = 'none';
           }
         }
-        // Init slider
+        // Initialise the slider
         function startSlide() {
           reset();
           sliderImages[0].style.display = 'block';
         }
-        // Show prev
+        // Show previous slide
         function slideLeft() {
           reset();
           sliderImages[current - 1].style.display = 'block';
           current--;
         }
-        // Show next
+        // Show next slide
         function slideRight() {
           reset();
           sliderImages[current + 1].style.display = 'block';
           current++;
         }
-        // Left arrow click
+        // Left arrow click to change slide
         arrowLeft.addEventListener('click', function() {
           if (current === 0) {
             current = sliderImages.length;
           }
           slideLeft();
         });
-        // Right arrow click
+        // Right arrow click to change slide
         arrowRight.addEventListener('click', function() {
           if (current === sliderImages.length - 1) {
             current = -1;
@@ -142,8 +147,8 @@
       </div>
     </div>
 
-    <!--ADD CIRCULAR EFFECTS-->
 
+    <!--ADD CIRCULAR EFFECTS & FEEDBACK SECTION-->
     <div class="testimonials">
       <div class="inner">
         <h2>Local Feedback</h2>
@@ -213,20 +218,16 @@
     <div class="indexImageRow2">
       <span>
         <a href="#">
-          <img src="imgs/sm_img8.jpeg" alt="theWolf" />
-          <!-- <div class="text_hover"> -->
+          <img src="imgs/sm_img8.jpeg" alt="theWolf"/>
           <strong class="text_hover">Lake Louise</strong>
-          <!-- </div> -->
         </a>
       </span>
       <span>
         <a
           href="https://www.propertyguides.com/canada/news/country-living-canada-favourite-small-towns/"
         >
-          <img src="imgs/sm_img7.jpeg" alt="theCountry" />
-          <!-- <div class="text_hover"> -->
+          <img src="imgs/sm_img7.jpeg" alt="theCountry"/>
           <strong>Canadian Countryside</strong>
-          <!-- </div> -->
         </a>
       </span>
     </div>
@@ -234,23 +235,20 @@
     <div class="indexImageRow3">
       <span>
         <a href="https://traveltriangle.com/blog/canada-mountains/">
-          <img src="imgs/sm_img5.jpeg" alt="lakeLouise" />
-          <!-- <div class="text_hover"> -->
+          <img src="imgs/sm_img5.jpeg" alt="lakeLouise"/>
           <strong class="text_hover">Rural Mountains</strong>
-          <!-- </div> -->
         </a>
       </span>
       <span>
         <a
-          href="https://www.hostelworld.com/blog/best-traditional-canadian-food/"
-        >
+          href="https://www.hostelworld.com/blog/best-traditional-canadian-food/" >
           <img src="imgs/canadianFood.jpg" alt="Food" />
-          <!-- <div class="text_hover"> -->
           <strong class="text_hover">Canadian Food</strong>
-          <!-- </div> -->
         </a>
       </span>
     </div>
+
+    
     <!--FOOTER-->
     <div class="footer">
       <p>&copy;Copyright 2020</p>

@@ -43,6 +43,7 @@ nav {
   color: #0000ff;
   font-weight: bold; }
 
+/*----------HAMBURGER------------ */
 .burger {
   display: none;
   cursor: pointer; }
@@ -791,6 +792,10 @@ form label {
   justify-content: center;
   padding-top: 3%; }
 
+.wildlifeRow1 h3 {
+  padding-bottom: 40px;
+  padding-top: 30px; }
+
 #img1 img {
   border-radius: 50%;
   width: 300px;
@@ -809,19 +814,12 @@ form label {
   height: 300px;
   margin-bottom: 30px; }
 
-/*----------STYLING THE HEADING-----*/
-.wildlifeRow1 h3 {
-  padding-bottom: 40px;
-  padding-top: 30px; }
-
-/*---------STYLING AND ALIGNING THE SECOND THREE ARTICLE IDS-----*/
 .wildlifeRow1 #img1,
 #img2,
 #img3 {
   text-align: center;
   font-size: 15px; }
 
-/*----------STYLING THE ARTICLE-----*/
 .wildlifeRow1 article {
   margin-left: 20px;
   padding-bottom: 20px; }
@@ -861,7 +859,6 @@ form label {
   justify-content: center;
   padding-top: 3%; }
 
-/*----------STYLING THE HEADING-----*/
 .wildlifeRow2 h3 {
   padding-bottom: 40px;
   padding-top: 30px; }
@@ -1073,7 +1070,7 @@ form label {
     opacity: 0; }
   .toggle .line3 {
     transform: rotate(45deg) translate(-5px, -6px); }
-  /*--------------------------------SLIDER TURNED INTO STATIC IMAGES------------------------------------- */
+  /*--------------------------------SLIDER---------------------------------- */
   #slider,
   .wrap,
   .slide-content {

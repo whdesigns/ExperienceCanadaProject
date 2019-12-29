@@ -9,6 +9,7 @@
     <title>Experience Canada</title>
   </head>
   <body>
+    <!--NAV BAR-->
     <nav>
       <div class="logo">
         <a href="index.html"><img src="imgs/logo.png" alt="logo"/></a>
@@ -33,12 +34,17 @@
           <a href="contact.html">Contact Us</a>
         </li>
       </ul>
+
+      <!--HAMBURGER-->
       <div class="burger">
         <div class="line1"></div>
         <div class="line2"></div>
         <div class="line3"></div>
       </div>
     </nav>
+
+
+    <!--SLIDERS-->
     <div class="wrap">
       <div class="home-slide">
         <div id="arrow-left" class="arrow"></div>
@@ -75,27 +81,27 @@
           }
         }
 
-        // Init slider
+        // Initialise the slider
         function startSlide() {
           reset();
           sliderImages[0].style.display = 'block';
         }
 
-        // Show prev
+        // Show previous slide
         function slideLeft() {
           reset();
           sliderImages[current - 1].style.display = 'block';
           current--;
         }
 
-        // Show next
+        // Show next slide 
         function slideRight() {
           reset();
           sliderImages[current + 1].style.display = 'block';
           current++;
         }
 
-        // Left arrow click
+        // Left arrow click to change slide
         arrowLeft.addEventListener('click', function() {
           if (current === 0) {
             current = sliderImages.length;
@@ -103,7 +109,7 @@
           slideLeft();
         });
 
-        // Right arrow click
+        // Right arrow click to change slide
         arrowRight.addEventListener('click', function() {
           if (current === sliderImages.length - 1) {
             current = -1;
@@ -123,8 +129,8 @@
         </p>
       </div>
 
-      <!--CODE FOR ROW OF 2 IMAGES-->
 
+      <!--CODE FOR FIVE IMAGE COLUMNS-->
       <div class="landmark1">
         <span class="L-mark"><img src="imgs/pc.jpeg" alt="peggy"/></span>
         <a href="https://www.novascotia.com/explore/top-25/peggys-cove" class="btn1">Peggy's Cove</a>
