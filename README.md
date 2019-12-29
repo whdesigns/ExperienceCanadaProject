@@ -10,7 +10,7 @@
  <br /> 
 
 # CodingStyleGuide Overview 
-##### The attached markdown file discusses suggested functions included in the website, as well as the right and wrong approaches for best coding practice. 
+##### The [attached](https://github.com/whdesigns/ExperienceCanadaProject/blob/master/codingStyleGuide.md) markdown file discusses suggested functions included in the website, as well as the right and wrong approaches for best coding practice. 
 ##### Note: This file was written during the planning stage and since then many fucntions and features have changed or been removed. 
 
  <br /> 
