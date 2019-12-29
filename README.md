@@ -80,12 +80,12 @@ gulp watch
 # Part Two - Test Plan Results  
 
 ## Technical Test Plan
-###### A technical test plan was created in MS Word to ensure the website is error-free and ready for deployment. Screenshots available below. 
+##### Created in MS Word. A technical test plan was essential to ensure the website is error-free and ready for deployment. Screenshots of the tests conducted can be seen below. 
 ![](public/imgs/TechTest1.png)
 ![](public/imgs/TechTest2.png)
 
 ## User Testing
-###### 
+##### Google Forms was used to ask 10 people to critique this website. Below are the results of the feedback they provided.
 ![](public/imgs/usertesting1.png)
 ![](public/imgs/usertesting2.png)
 ![](public/imgs/usertesting3.png)
