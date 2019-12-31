@@ -42,14 +42,16 @@ node -v
 
 #### Step Three:
 ###### Right click on the "public" folder and select "Open in Terminal". 
-###### Type the following into the terminal to install gulp
+###### Type the following into the terminal to initialize npm and install gulp-cli globally
 
  ```
+npm init
 sudo npm install gulp-cli -g
  ```
-###### After typing in the above code npm will ask for a "password", which is used for your computer.
+###### When installing npm various questions will be asked. Press "enter" to skip them. Afterwards a package.json file will automatically be generated or updated.
+###### While attempting to install gulp-cli npm will ask for a "password", which is used for the user's computer.
  
-###### Type...
+###### Once gulp-cli has been successfully installed type...
 
  ```
 gulp -v
@@ -69,12 +71,13 @@ npm install --save-dev gulp gulp-sass browser-sync
    <br />
 
 #### Step Five:
-###### Type following into the terminal to pull up the website using your localhost with the use of browser-sync
+###### Type the following into the terminal to pull up the website using your localhost with the use of browser-sync
 
 
  ```
 gulp watch
  ```
+###### Now whenever something is updated and saved the browser will automatically refresh to display these changes. 
 
   <br /> 
   
